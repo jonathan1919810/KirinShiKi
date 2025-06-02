@@ -2,8 +2,8 @@
 
 基于 handsome 主题的神代綺凜式魔改主题插件.
 
-这是一个Fork后因为与原作者有不同的想法Detach的项目，原址[Sanakey/KirinShiKi](https://github.com/Sanakey/KirinShiKi)。本项目基于原项目进行了进一步修改，修复了时光机的背景问题、限宽问题、以及侧边栏的透明问题和鼠标悬浮效果。如果你有任何疑问，欢迎来我的博客gyrojeff.top或者发送邮件到1247006353@qq.com咨询我。
-
+原址[Sanakey/KirinShiKi](https://github.com/Sanakey/KirinShiKi)。
+fork自 JeffersonQin/KirinShiKi 
 ## 食用方法
 
 - 点击右上角绿色的`Clone or download`按钮，`Download ZIP`, 解压文件。
@@ -14,7 +14,6 @@
 ## 更新
 
 ### 3.1.1
-
 见博客：
 - https://gyrojeff.top/index.php/archives/14/
 - https://gyrojeff.top/index.php/archives/152/
